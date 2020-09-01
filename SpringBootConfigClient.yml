@@ -1,4 +1,4 @@
 my:
-   greeting: Hello world from config server
+   greeting: Hello world from SpringBootConfigClient server
    list:
        values: One,Two,Three,Four
